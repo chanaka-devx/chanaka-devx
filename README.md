@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chanaka Madhuranga
 
-I’m passionate about **AI/ML, Cybersecurity, and Web Development**, and I love building projects that solve real-world problems.  
+I’m passionate about **AI/ML, and Web Development**, and I love building projects that solve real-world problems.  
 
 ---
 
